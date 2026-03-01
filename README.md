@@ -6,6 +6,7 @@ A simple ETL pipeline built in Python that:
 - Loads the result into a Parquet file
 
 ## Project Structure
+'''
 csv-to-parquet-etl/
 │
 ├── data/
@@ -20,6 +21,7 @@ csv-to-parquet-etl/
 │
 ├── requirements.txt
 └── README.md
+'''
 
 ## How to Run
 
